@@ -12,5 +12,8 @@
     "scripts": {
       "test": "make test"
     },
+    "react-native": {
+      "crypto": "react-native-crypto"
+    },
     "engines": { "node": "*" }
 }
